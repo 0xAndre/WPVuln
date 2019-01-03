@@ -168,6 +168,12 @@
             "version": "1.3.7",
             "iname": "plugins/ultimate-form-builder-lite",
             "vuln_type": ["SQL Injection"]
+        },
+        {
+            "name": "Visitors Traffic",
+            "version": "1.3.7",
+            "iname": "plugins/visitors-traffic-real-time-statistics",
+            "vuln_type": ["SQL Injection"]
         }
     ]
 }
