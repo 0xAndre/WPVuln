@@ -90,6 +90,84 @@
             "version": "2.0",
             "iname": "plugin/quizlord",
             "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Plugin Jibu Pro",
+            "version": "1.7",
+            "iname": "plugins/jibu-pro",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Plainview Activity Monitor",
+            "version": "20161228",
+            "iname": "plugins/plainview-activity-monitor",
+            "vuln_type": ["Command Injection"]
+        },
+        {
+            "name": "Gift Voucher",
+            "version": "1.0.5",
+            "iname": "plugins/gift-voucher",
+            "vuln_type": ["SQL Injection"]
+        },
+        {
+            "name": "Tagregator",
+            "version": "0.6",
+            "iname": "plugins/tagregator",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Chained Quiz",
+            "version": "1.0.8",
+            "iname": "plugins/chained-quiz",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Export Users to CSV",
+            "version": "1.1.1",
+            "iname": "plugins/export-users-to-csv",
+            "vuln_type": ["CSV Injection"]
+        },
+        {
+            "name": "Responsive Thumbnail Slider",
+            "version": "1.1.1",
+            "iname": "plugins/wp-responsive-thumbnail-slider",
+            "vuln_type": ["Arbitrary File Upload"]
+        },
+        {
+            "name": "All In One Favicon",
+            "version": "4.6",
+            "iname": "plugins/all-in-one-favicon",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Job Manager",
+            "version": "4.1.0",
+            "iname": "plugins/wp-job-manager",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "iThemes Security",
+            "version": "7.0.3",
+            "iname": "plugins/better-wp-security",
+            "vuln_type": ["SQL Injection"]
+        },
+        {
+            "name": "Comments Import & Export",
+            "version": "2.0.4",
+            "iname": "plugins/comments-import-export-woocommerce",
+            "vuln_type": ["CSV Injection"]
+        },
+        {
+            "name": "Advanced Order Export For WooCommerce",
+            "version": "1.5.4",
+            "iname": "plugins/woo-order-export-lite",
+            "vuln_type": ["CSV Injection"]
+        },
+        {
+            "name": "Ultimate Form Builder Lite",
+            "version": "1.3.7",
+            "iname": "plugins/ultimate-form-builder-lite",
+            "vuln_type": ["SQL Injection"]
         }
     ]
 }
