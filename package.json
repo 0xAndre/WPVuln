@@ -1,0 +1,29 @@
+{
+  "name": "wpvuln",
+  "version": "1.0.0",
+  "description": "wordpress vulnerability scanner",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x0uter/WPVuln.git"
+  },
+  "keywords": [
+    "scanner",
+    "wordpress",
+    "vulnerability",
+    "exploit"
+  ],
+  "author": "me@andresantos.pt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x0uter/WPVuln/issues"
+  },
+  "homepage": "https://github.com/x0uter/WPVuln#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
