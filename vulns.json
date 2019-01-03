@@ -1,0 +1,95 @@
+{
+    "vulns":[
+        {
+            "name": "Adicon Server",
+            "version": "1.2",
+            "iname": "plugins/adicons",
+            "vuln_type": ["SQL Injection"]
+        },
+        {
+            "name": "Baggage Freight Shipping Australia",
+            "version": "0.1.0",
+            "iname": "plugins/baggage-freight",
+            "vuln_type": ["Arbitrary File Upload"]
+        },
+        {
+            "name": "Audio Record",
+            "version": "1.0",
+            "iname": "plugins/audio-record",
+            "vuln_type": ["Arbitrary File Upload"]
+        },
+        {
+            "name": "AutoSuggest",
+            "version": "0.24",
+            "iname": "plugins/wp-autosuggest",
+            "vuln_type": ["SQL Injection"]
+
+        },
+        {
+            "name": "Advanced-custom-fields",
+            "version": "5.7.7",
+            "iname": "plugins/wp-autosuggest",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Easy Testimonials",
+            "version": "3.2",
+            "iname": "plugins/easy-testimonials",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "CherryFramework Themes",
+            "version": "3.1.4",
+            "iname": "themes/CherryFramework",
+            "vuln_type": ["Backup File Download"]
+        },
+        {
+            "name": "Ninja Forms",
+            "version": "3.3.17",
+            "iname": "plugins/ninja-forms",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Media File Manager",
+            "version": "1.4.2",
+            "iname": "plugins/media-file-manager",
+            "vuln_type": ["Path Traversal", "XSS"]
+        },
+        {
+            "name": "Support Board",
+            "version": "1.2.3",
+            "iname": "plugins/supportboard",
+            "vuln_type": ["XSS"]
+        },
+        {
+            "name": "Localize My Post",
+            "version": "1.0",
+            "iname": "plugins/localize-my-post",
+            "vuln_type": ["Local File Inclusion"]
+        },
+        {
+            "name": "Wechat Broadcast",
+            "version": "1.2.0",
+            "iname": "plugins/wechat-broadcast",
+            "vuln_type": ["Local File Inclusion"]
+        },
+        {
+            "name": "Arigato Autoresponder and Newsletter",
+            "version": "2.5",
+            "iname": "plugins/bft-autoresponder",
+            "vuln_type": ["XSS", "SQL Injection"]
+        },
+        {
+            "name": "Survey & Poll",
+            "version": "1.5.7.3",
+            "iname": "plugin/wp-survey-and-poll",
+            "vuln_type": ["SQL Injection"]
+        },
+        {
+            "name": "Quizlord",
+            "version": "2.0",
+            "iname": "plugin/quizlord",
+            "vuln_type": ["XSS"]
+        }
+    ]
+}
